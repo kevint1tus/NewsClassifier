@@ -1,2 +1,2 @@
 # NewsClassifier---NLP
-Object Oriented Programming - Assignment 1 
+Object Oriented Programming - Natural Language Processing Assignment 1
